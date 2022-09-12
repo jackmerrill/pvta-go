@@ -17,7 +17,7 @@ package main
 
 import (
     "fmt"
-    "github.com/jackmerrill/pvta-go"
+    pvta "github.com/jackmerrill/pvta-go"
 )
 
 func main() {
